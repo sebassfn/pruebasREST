@@ -16,7 +16,7 @@
 				// phpinfo();
 
 				
-				echo "Hello World \n";
+				echo "A new line starts here \n";
 				echo "A carriage return is \r";
 				echo "A tab is \t.";
 				echo "A dollar sign is \$";
